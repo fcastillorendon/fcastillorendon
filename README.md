@@ -1,16 +1,24 @@
-## Hi there 👋
+# Dr. Felipe Castillo Rendón
 
-<!--
-**fcastillorendon/fcastillorendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering, data systems, and applied artificial intelligence.
 
-Here are some ideas to get you started:
+I am building [Lynvera Intelligence](https://lynvera.ai), connecting software engineering, enterprise data, and AI to address practical business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of focus
+
+- Enterprise software architecture and API integration
+- Data engineering, databases, and process automation
+- AI agents, retrieval-augmented generation (RAG), and document intelligence
+- Reliability, evaluation, traceability, and human oversight in AI systems
+
+## Lynvera Intelligence
+
+**Intelligence Engineered for Business.**
+
+Lynvera focuses on custom software, AI integration, and automation for enterprise processes. This profile will link to public projects as they become available; planned initiatives are not released products.
+
+[Visit Lynvera](https://lynvera.ai) · [Explore our approach](https://lynvera.ai/es/empresa/nosotros) · [Contact Lynvera](https://lynvera.ai/es/contacto)
+
+---
+
+**Author: Dr. Felipe Castillo Rendón**
