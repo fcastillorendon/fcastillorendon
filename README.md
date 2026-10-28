@@ -17,7 +17,7 @@ I am building [Lynvera Intelligence](https://lynvera.ai), connecting software en
 
 Lynvera focuses on custom software, AI integration, and automation for enterprise processes. This profile will link to public projects as they become available; planned initiatives are not released products.
 
-[Visit Lynvera](https://lynvera.ai) · [Explore our approach](https://lynvera.ai/es/empresa/nosotros) · [Contact Lynvera](https://lynvera.ai/es/contacto)
+[GitHub organization](https://github.com/lynvera-ai) · [Visit Lynvera](https://lynvera.ai) · [Explore our approach](https://lynvera.ai/es/empresa/nosotros) · [Contact Lynvera](https://lynvera.ai/es/contacto)
 
 ---
 
